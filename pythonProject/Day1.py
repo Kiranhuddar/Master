@@ -166,6 +166,8 @@ a="hello world how are you?"
 # else:
 #     print("its not a prime number")
 
+my_module = 3.142
+
 
 
 
